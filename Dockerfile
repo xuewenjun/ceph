@@ -1,1 +1,1 @@
-FROM docker pull ceph/ceph:v16
+FROM ceph/ceph:v16
